@@ -1,0 +1,43 @@
+.btnn{
+border: none;
+margin: 20px;
+width: 220px;
+height: 110px;
+font-family: "montserrat",sans-serif;
+text-transform: uppercase;
+border-radius: 6px;
+cursor: pointer;
+color: #fff;
+background-size: 200%;
+transition: 0.6s;
+}
+
+.btn1{
+background-image: linear-gradient(to left,#FFC312,#EE5A24,#FFC312);
+}
+  
+.btn2{
+background-image: linear-gradient(to left,#C4E538,#009432,#C4E538);
+}
+  
+.btn3{
+background-image: linear-gradient(to left,#12CBC4,#0652DD,#12CBC4);
+}
+  
+.btn4{
+background-image: linear-gradient(to left,#ffeca7,#80b1fa,#b099fc);
+}
+
+.btn5{
+background-image: linear-gradient(to left,#000000,#d0ff00);
+}
+
+.btn6{
+    background-image: linear-gradient(to left,#fcff43,#79873b,#000000);
+}
+
+.kat{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 60px;
+}
